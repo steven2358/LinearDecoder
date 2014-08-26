@@ -1,5 +1,8 @@
 %% CS294A/CS294W Linear Decoder Exercise
 
+close all
+clear all
+
 %  Instructions
 %  ------------
 % 
